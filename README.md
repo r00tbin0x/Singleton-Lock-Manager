@@ -19,8 +19,4 @@ This tool helps you diagnose and fix these issues quickly.
 - **User-Friendly** — Colorful menu-driven interface
 - **Reliable** — Handles Linux-specific symlink quirks
 
-## Installation
 
-1. Download the script:
-```bash
-curl -O https://raw.githubusercontent.com/yourusername/singleton-lock-manager/main/singleton-lock-manager.sh
